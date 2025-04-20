@@ -1,4 +1,4 @@
-# 📚 StoryGPT – Social Stories Generator
+# 📚 Social Stories Generator: An LLM-Based Learning Tool for Specially-Abled Children
 
  *An AI-powered learning tool for specially-abled children, focused on personalized, engaging, and accessible social stories.*
 
